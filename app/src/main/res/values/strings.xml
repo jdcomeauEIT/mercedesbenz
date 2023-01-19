@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MercedesBenz</string>
+    <string name="empty_state_message">No data</string>
+</resources>
